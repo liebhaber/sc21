@@ -1,0 +1,3 @@
+[submodule "task4_retinanet"]
+	path = task4_retinanet
+	url = https://github.com/yhenon/pytorch-retinanet
